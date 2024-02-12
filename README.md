@@ -1,6 +1,8 @@
 # capstone
 ### 2/11/2024
 
+# This is my final project capstone for my Drake Computer Science Degree. I tried to implement a lot of what i've learned and push myself even further.
+
 ## so what you need is
 
 ### 1. clone the rpi-rgb-matrix library from github.com/hzeller
@@ -19,4 +21,6 @@
 
 ### 8. make sure the polyphony.scd is running on supercollider and then...
 
-### 9. run 
+### 9. Use an audiocapture program to loopback the audio/capture, like Loopback. run Loopback and make sure audio is showing in the mixer.
+
+### 10. run audioScanner.py on the computer that is running supercollider or any sound at all, make sure you're reading from the capture device.
