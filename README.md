@@ -24,3 +24,7 @@
 ### 9. Use an audiocapture program to loopback the audio/capture, like Loopback. run Loopback and make sure audio is showing in the mixer.
 
 ### 10. run audioScanner.py on the computer that is running supercollider or any sound at all, make sure you're reading from the capture device.
+
+#### Special thanks to the internet including: google, StackOverflow, chatGPT (help with git commands and sockets, and debugging), github/hzeller for his amazing led matrix library, youtube guy talking about fft and python spectrum analyzers (didn't use his but got me to a starting point with it), theres also a site that has an idea for converting wave lengths of light in nanometers to rgb values. and also... 
+
+# thanks DRAKE and all the wonderful amazing beautiful professors there.. seriously.. wow, I never thought I would end up LOVING computer science. awesome show, great job!
